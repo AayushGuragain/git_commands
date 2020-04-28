@@ -142,3 +142,4 @@ Step 3. Push your changes to your git repo.
 1. First know what you will be deleting: ` $ git clean -nfd `
 
 1. Then delete it, if all looks good: `$ git clean -fd `
+Altan-Aayush Co.
